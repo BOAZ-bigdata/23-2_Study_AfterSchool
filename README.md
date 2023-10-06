@@ -20,9 +20,9 @@
 |Date|Contents|Resources|
 |:--------:|:--------:|:--------:|
 |2021.10.12|Git & GitHub|[Link](./git_github/)|
-|2021.11.02|HuggingFace|Coming soon|
-|2021.11.09|Pytorch lightning|Coming soon|
-|2021.11.16|Wandb|Coming soon|
+|2021.11.02|HuggingFace|[Link](./huggingface/)|
+|2021.11.09|Pytorch lightning|[Link](./pytorch_lightning/)|
+|2021.11.16|Wandb|[Link](./wandb/)|
 
 <br/>
 
