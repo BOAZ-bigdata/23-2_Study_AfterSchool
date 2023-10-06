@@ -1,8 +1,10 @@
-# Resource-pdf
+# HuggingFace
+
+## Resource-pdf
 
 to be updated
 
-# Contents
+## Contents
 
 - HuggingFace란?
 - HuggingFace를 구성하는 요소들 - transformers and huggingface hub

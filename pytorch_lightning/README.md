@@ -1,8 +1,10 @@
-# Resource-pdf
+# pytorch_lightning
+
+## Resource-pdf
 
 to be updated
 
-# Contents
+## Contents
 
 - Pytorch lightning이란?
 - 왜 Pytorch lightning을 사용하는가?

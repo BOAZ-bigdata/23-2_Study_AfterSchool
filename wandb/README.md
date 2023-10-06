@@ -1,8 +1,10 @@
-# Resource-pdf
+# Wandb
+
+## Resource-pdf
 
 to be updated
 
-# Contents
+## Contents
 
 - Wandb란?
 - Wandb를 사용해야하는 이유

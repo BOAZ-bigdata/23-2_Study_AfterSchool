@@ -1,6 +1,9 @@
 # Git_Github
 git과 github part
 
+## Resource-pdf
+pdf link: [Link](./git_and_github.pdf)
+
 ## Contents
 - Git이란 무엇인가?
 - Git의 기본 명령어
