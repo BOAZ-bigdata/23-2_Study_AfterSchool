@@ -4,16 +4,16 @@
 
 <div align = "center">
 
-# Hi, I'm (본인 이름 입력) 👋🏻
+# Hi, I'm 혜연 👋🏻
 I'm interested in (본인의 관심 분야 입력)
 (기타 자기소개 입력)
 
 <br>
 
-<a href="mailto:2bambitious@gmail.com" target="_blank">
+<a href="mailto:hyeyeon0907.2e@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
-<a href="https://gbdai.tistory.com" target="_blank">
+<a href="https://https://holv2e.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/includelifelib" target="_blank">
@@ -46,5 +46,12 @@ I'm interested in (본인의 관심 분야 입력)
 |2017.03 ~ in progress|🏫 Education|Bachelor of Business Administration|SEOULTECH|
 |2018.08 ~ in progress|🏫 Education|Bachelor of Computer Engineering|SEOULTECH|
 |2022.07 ~ 2022.09|🏢 Company|Intern|WonderfulPlatform|
+
+<br>
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hyeyeonee&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
+  </a>
+</div>
 
 <div>
