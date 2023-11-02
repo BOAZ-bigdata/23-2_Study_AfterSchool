@@ -2,11 +2,14 @@
 
 I'm interested in (본인의 관심 분야 입력)
 (기타 자기소개 입력)
-<br>
+<br> 
 
 <a href="mailto:2bambitious@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
+
+
+
 <a href="https://gbdai.tistory.com" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
@@ -15,6 +18,13 @@ I'm interested in (본인의 관심 분야 입력)
 </a>
 <a href="https://pouncing-healer-4e5.notion.site/Sangam-Lee-459bd7d32bdf443489998d5a09d8e310" target="_blank">
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
+<img alt="JA" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white"/>
+<img alt="JA" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white"/>
+<br>
+
+<img alt="JA" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white"/>
+<img alt="JA" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white"/>
+<img alt="JA" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white"/>
 </a>
 
 <br>
