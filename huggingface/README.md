@@ -1,8 +1,8 @@
 # HuggingFace
 
 ## Resource-pdf
-- pdf(./huggingface.pdf)
-- 실습파일 [colab]([www.google.com](https://colab.research.google.com/drive/14OMGhZsDRHJb3Atyh5PWoe5eKup_ob3T?usp=sharing))
+- [pdf](./huggingface.pdf)
+- 실습파일 [colab](https://colab.research.google.com/drive/14OMGhZsDRHJb3Atyh5PWoe5eKup_ob3T?usp=sharing)
 
 
 ## Contents
